@@ -3,21 +3,19 @@ layout: default
 title: Day 1 - Basic Programming Magic
 ---
 
-# 🏔️ Day 1: Basic Programming Magic in R
+# 🏰 Day 1: Basic Programming Magic in R
 
-*Welcome to the Magic Forest where variables come alive and loops create endless possibilities!*
+*Welcome to the Magic Forest where Oda the Data Otter teaches you the secret spells of programming!*
 
 ## 🔮 Learning Journey Overview
 
-Today we'll embark on our first adventure into the magical world of R programming! By the end of today, you'll be casting spells with code and creating your very own digital art.
+Today we'll join Oda on our first adventure into the magical world of R programming! By the end of today, you'll be casting spells with code and making smart decisions like a real data wizard.
 
 ### 🎯 Learning Objectives
 - 🔤 Write your first lines of R code
 - 📝 Understand comments and why they're important
 - 🎲 Master variables and data types
-- 📦 Explore packages and open-source magic
-- 🔄 Control program flow with if-else and loops
-- 🎨 Create beautiful mosaic art with code
+- 🔄 Control program flow and have computers make decisions using if-else conditions
 
 ---
 

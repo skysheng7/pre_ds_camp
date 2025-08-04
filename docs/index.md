@@ -11,13 +11,13 @@ Welcome, young data detectives! Meet the Otter Oda, a friendly hacker who can lo
 
 ## 🗓️ 5-Day Adventure Plan
 
-| Day | Theme | Key Concepts | Magic Activity |
-|-----|-------|--------------|----------------|
-| **1** | 🌟 Basic Programming Magic | Variables, data types, loops | Magic Forest Word Reorganizer |
-| **2** | 📊 Data Storytelling | Functions, data wrangling, visualization | Team Data Detective Project |
-| **3** | 🐄 Statistics Safari | Mean, sampling, confidence intervals | Candy Bag Sampling Adventure |
-| **4** | 🤖 Machine Learning Quest | KNN, training, testing | Physical Board Game Classification |
-| **5** | 🧠 AI | AI, ethics, future | String & Neuron Connection Game |
+| Day | Theme | Key Concepts |
+|-----|-------|--------------|
+| **1** | 🏰 Basic Programming Magic | Variables, data types, if-else conditions |
+| **2** | 🎨 Data Storytelling | Loops, functions, data wrangling, visualization |
+| **3** | 🌿 Statistics Safari | Mean, sampling, confidence intervals |
+| **4** | 🪄 Machine Learning Quest | KNN, training, testing |
+| **5** | 🧙‍♀️ AI | AI, AI ethics, future |
 
 ## 🚀 Quick Start Guide
 
