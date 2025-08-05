@@ -17,13 +17,13 @@ This is a wrapper repository to store the material before camp, because I wish t
 
 ## 🗓️ 5-Day Adventure Plan
 
-| Day | Theme | Key Concepts | Magic Activity |
-|-----|-------|--------------|----------------|
-| **1** | 🌟 Basic Programming Magic | Variables, data types, loops | Magic Forest Word Reorganizer |
-| **2** | 📊 Data Storytelling | Functions, data wrangling, visualization | Team Data Detective Project |
-| **3** | 🐄 Statistics Safari | Mean, sampling, confidence intervals | Candy Bag Sampling Adventure |
-| **4** | 🤖 Machine Learning Quest | KNN, training, testing | Physical Board Game Classification |
-| **5** | 🧠 AI & Neural Networks | Neural networks, ethics, future | String & Neuron Connection Game |
+| Day | Theme | Key Concepts |
+|-----|-------|--------------|
+| **1** | 🏰 Basic Programming Magic | Variables, data types, if-else conditions |
+| **2** | 🪄 Loops and Magic Libraries | For loops, packages, ggplot2, dataframes |
+| **3** | 🎨 Data Storytelling | Data wrangling, advanced visualization |
+| **4** | 🌊 Statistics Ocean | Mean, sampling, confidence intervals |
+| **5** | 🧙‍♀️ Machine Learning & AI | KNN, AI, ethics and future |
 
 ## 🚀 Quick Start Guide
 
