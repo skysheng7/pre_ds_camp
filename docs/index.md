@@ -5,7 +5,7 @@ title: Home
 
 # 🌟 Data Science for Kids Summer Camp at VISST
 
-- Location: **[Vancouver Institute for the Scholarship of Sustainability and Technology (VISST)](https://www.visst.ca/)**
+- Location: **[Vancouver Indepedent School of Science and Technology (VISST)](https://www.visst.ca/)**
 
 - Date and Time: **📅 August 11-15, 2025 (Monday-Friday) | ⏰ 1:00-4:00 PM**
 
